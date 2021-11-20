@@ -24,8 +24,8 @@
                   x-large
                   class="mt-5"
                   router
-                  to="/register"
-                >Get Started</v-btn>
+                  to="/login"
+                >Log In</v-btn>
               </v-col>
             </v-row>
           </v-card>
